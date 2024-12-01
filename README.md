@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://Avadhesh-Kumar45.github.io/portfolio/" target="_blank">
-     <img src="https://avadhesh-kumar45.github.io/portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -77,5 +77,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avadhesh-Kumar45&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
   <img width='50%' height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avadhesh-Kumar45&layout=donut&hide_border=true&theme=tokyonight" />
   <img src="https://github-profile-trophy.vercel.app/?username=Avadhesh-Kumar45&theme=tokyonight&no-frame=true&column=3&row=2" height="250" alt="@Avadhesh-Kumar45's trophy stats"/>
-  <img  align=top flex-grow=1 src="https://leetcode.com/u/avadhesh-kumar45/?theme=transparent&font=Nunito&ext=heatmap"/>  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/avadhesh-kumar45?theme=transparent&font=Nunito&ext=heatmap"/>  
 </p>
